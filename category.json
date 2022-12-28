@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Web Development"
+  },
+  {
+    "id": 2,
+    "categoryName": "Graphics Design"
+  },
+  {
+    "id": 3,
+    "categoryName": "Ux and Ui Design"
+  },
+  {
+    "id": 4,
+    "categoryName": "Video Editing"
+  },
+  {
+    "id": 5,
+    "categoryName": "Logo Design"
+  },
+  {
+    "id": 6,
+    "categoryName": "Wordpress"
+  }
+]
